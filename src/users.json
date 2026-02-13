@@ -1,0 +1,21 @@
+{
+    "name": "Clarabelle",
+    "email": "Beaulah_Auer-Kihn77@gmail.com",
+    "phone": "224.262.7045",
+    "age": 92,
+    "city": "Riceshire",
+    "date": "1958-09-13T17:59:31.885Z",
+    "buy_count": 79,
+    "date_of_created": "2025-03-19T02:42:04.079Z",
+    "total_cost": "207.35",
+    "address": "5658 Runte Isle",
+    "post_index": 18,
+    "country": "Azerbaijan",
+    "card_number": "jcb",
+    "payment_status": false,
+    "discount": 64,
+    "bonus_count": "Invalid faker method - random.word",
+    "level": "Invalid faker method - random.word",
+    "referals": 66,
+    "id": "1"
+}
